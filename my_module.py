@@ -10,5 +10,5 @@ def mul(a,b):
 
 def div(a,b):
     a//b #수정
-    
+
     
